@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background: #fdfdfd;
+  color: #01aa34c2;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
