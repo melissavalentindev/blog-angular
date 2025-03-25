@@ -1,27 +1,43 @@
-# AngularBlog
+# 🐶 The Dog Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## 📋 Descrição do Projeto
+The Dog Blog é uma aplicação web moderna desenvolvida com Angular, dedicada a compartilhar conteúdo interessante e informativo sobre animais. Nosso objetivo é conectar amantes de pets através de artigos envolventes e curiosidades.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologias Utilizadas
+- Angular
+- TypeScript
+- HTML5
+- CSS3
 
-## Code scaffolding
+## 🔧 Pré-requisitos
+- Node.js (versão 16 ou superior)
+- Angular CLI
+- npm (Node Package Manager)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📦 Instalação
 
-## Build
+### Clonar o Repositório
+```bash
+git clone https://github.com/seu-usuario/angular-dog-blog.git
+cd angular-dog-blog
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Instalar Dependências
+```bash
+npm install
+```
 
-## Running unit tests
+## 🌟 Executando o Projeto
+```bash
+ng serve
+```
+Navegue para `http://localhost:4200/`. A aplicação será recarregada automaticamente se você modificar qualquer arquivo fonte.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🤝 Contribuições
+Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de começar.
 
-## Running end-to-end tests
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Feito com ❤️ por Melissa Valentin
