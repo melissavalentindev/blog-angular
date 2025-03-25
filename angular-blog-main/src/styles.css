@@ -1,22 +1,23 @@
-/* You can add global styles to this file, and also import other style files */
+/* Importando fonte */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
-*{
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
-  background-color: white;
-  background-image: url('assets/images/bg-pet.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  color: #01a34c;
-  font-family: 'Segoe UI', sans-serif;
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    background-image: url('assets/images/bg-pet.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', sans-serif;
 }
 
 .content-container {
-  background-color: rgba(255, 255, 255, 0.7); /* Fundo branco semi-transparente */
+    color: rgb(209, 104, 34); 
 }
 
-a{
-  text-decoration: none;
+a {
+    text-decoration: none;
+    color: #01a34c;
 }
